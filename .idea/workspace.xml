@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffab3248-e378-48af-96ef-81e270ae035e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gaugetest/pages/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gaugetest/pages/MainPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gaugetest/pages/Payment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/gaugetest/steps/Implementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gaugetest/steps/Implementation.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML Properties File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1g2vRs3hkXc7WVj82kIQacXRHlj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580596524564" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\canerTest\Desktop\gaugeTestAutomation\CSVData" />
+      <recent name="C:\Users\caner.basat\Desktop\projects\ofixTest\src\test\resources\elementValues" />
+      <recent name="C:\Users\caner.basat\Desktop\projects\ofixTest\specs\Ofixcom" />
+      <recent name="C:\Users\caner.basat\Desktop\projects\ofixTest\src\test\resources\elementValues\Ofixcom" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.gaugetest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\canerTest\Desktop\23052021\gaugeTestAutomation\web_driver" />
+      <recent name="C:\Users\canerTest\Desktop\gaugeTestAutomation\web_driver" />
+      <recent name="$PROJECT_DIR$/web_driver" />
+      <recent name="C:\Users\Caner\Desktop\testgauge\web_driver" />
+      <recent name="$PROJECT_DIR$/CSVData" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gaugetest.driver" />
+      <recent name="model" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.gaugetest.driver" />
+      <recent name="com.gaugetest.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gauge Execution.HX Case (3)">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HX Case Concept" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/hepsiburada/testSpec.spec:72" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="testAutomation" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HX Case (1)" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/hepsiburada/testSpec.spec:5" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="testAutomation" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HX Case (2)" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/hepsiburada/testSpec.spec:5" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="testAutomation" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HX Case (3)" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/hepsiburada/testSpec.spec:5" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="testAutomation" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HX Case" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/hepsiburada/testSpec.spec:5" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="testAutomation" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gauge Execution.HX Case (3)" />
+        <item itemvalue="Gauge Execution.HX Case (2)" />
+        <item itemvalue="Gauge Execution.HX Case Concept" />
+        <item itemvalue="Gauge Execution.HX Case (1)" />
+        <item itemvalue="Gauge Execution.HX Case" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffab3248-e378-48af-96ef-81e270ae035e" name="Default Changelist" comment="" />
+      <created>1580506318237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580506318237</updated>
+      <workItem from="1580506334250" duration="172000" />
+      <workItem from="1580506524026" duration="2071000" />
+      <workItem from="1580508632996" duration="532000" />
+      <workItem from="1580509190877" duration="10013000" />
+      <workItem from="1580595683278" duration="758000" />
+      <workItem from="1597325500560" duration="131000" />
+      <workItem from="1597326813549" duration="1095000" />
+      <workItem from="1597328093662" duration="447000" />
+      <workItem from="1597388560615" duration="653000" />
+      <workItem from="1597575722657" duration="3009000" />
+      <workItem from="1597667319346" duration="1259000" />
+      <workItem from="1597746002687" duration="26000" />
+      <workItem from="1597746745054" duration="850000" />
+      <workItem from="1597761502445" duration="11655000" />
+      <workItem from="1597793719916" duration="371000" />
+      <workItem from="1597794340965" duration="304000" />
+      <workItem from="1597817852641" duration="5207000" />
+      <workItem from="1597910710571" duration="8690000" />
+      <workItem from="1597997026183" duration="1282000" />
+      <workItem from="1598001245729" duration="3746000" />
+      <workItem from="1598007637744" duration="193000" />
+      <workItem from="1600676688043" duration="180000" />
+      <workItem from="1600676893230" duration="9163000" />
+      <workItem from="1600766830549" duration="5959000" />
+      <workItem from="1600866248319" duration="179000" />
+      <workItem from="1600866552084" duration="95000" />
+      <workItem from="1600866672268" duration="10000" />
+      <workItem from="1600934967276" duration="8125000" />
+      <workItem from="1601045029596" duration="876000" />
+      <workItem from="1601047171219" duration="2476000" />
+      <workItem from="1601282295573" duration="190000" />
+      <workItem from="1601283342409" duration="10250000" />
+      <workItem from="1601365575995" duration="1689000" />
+      <workItem from="1601367472334" duration="3350000" />
+      <workItem from="1601376296439" duration="1434000" />
+      <workItem from="1601381715567" duration="12425000" />
+      <workItem from="1601467670559" duration="2064000" />
+      <workItem from="1601474911413" duration="41000" />
+      <workItem from="1601475157211" duration="2847000" />
+      <workItem from="1601541453395" duration="1100000" />
+      <workItem from="1601545166076" duration="695000" />
+      <workItem from="1601549433695" duration="408000" />
+      <workItem from="1601550901280" duration="11781000" />
+      <workItem from="1601990137094" duration="4675000" />
+      <workItem from="1602147292604" duration="6000" />
+      <workItem from="1602147330340" duration="723000" />
+      <workItem from="1602148154007" duration="148000" />
+      <workItem from="1602148326655" duration="7454000" />
+      <workItem from="1605097320967" duration="10921000" />
+      <workItem from="1606467448844" duration="309000" />
+      <workItem from="1607415574915" duration="1467000" />
+      <workItem from="1607417057102" duration="1143000" />
+      <workItem from="1607425584248" duration="4115000" />
+      <workItem from="1607608167036" duration="1094000" />
+      <workItem from="1607669934346" duration="63000" />
+      <workItem from="1607670009522" duration="635000" />
+      <workItem from="1607673243023" duration="1859000" />
+      <workItem from="1607765373311" duration="15809000" />
+      <workItem from="1607851406237" duration="94000" />
+      <workItem from="1607851517884" duration="5723000" />
+      <workItem from="1607928156121" duration="4464000" />
+      <workItem from="1608015174066" duration="602000" />
+      <workItem from="1608023652210" duration="2380000" />
+      <workItem from="1608100827252" duration="18623000" />
+      <workItem from="1608560767117" duration="3586000" />
+      <workItem from="1608792725301" duration="7078000" />
+      <workItem from="1608903837924" duration="3389000" />
+      <workItem from="1609241200905" duration="2093000" />
+      <workItem from="1609747347241" duration="2935000" />
+      <workItem from="1609845597771" duration="835000" />
+      <workItem from="1609931162158" duration="4421000" />
+      <workItem from="1609944643291" duration="193000" />
+      <workItem from="1610000778942" duration="599000" />
+      <workItem from="1610087895541" duration="602000" />
+      <workItem from="1611300352138" duration="469000" />
+      <workItem from="1611646345252" duration="2174000" />
+      <workItem from="1613386831969" duration="1277000" />
+      <workItem from="1613630243368" duration="9864000" />
+      <workItem from="1613717457842" duration="4838000" />
+      <workItem from="1614062349005" duration="6163000" />
+      <workItem from="1614150034009" duration="4390000" />
+      <workItem from="1614258335090" duration="1445000" />
+      <workItem from="1614321326898" duration="3439000" />
+      <workItem from="1617389022947" duration="2711000" />
+      <workItem from="1622124448501" duration="2507000" />
+      <workItem from="1628518216147" duration="239000" />
+      <workItem from="1631004488345" duration="1112000" />
+      <workItem from="1631184224565" duration="14166000" />
+      <workItem from="1631204143576" duration="82000" />
+      <workItem from="1631204584293" duration="78000" />
+      <workItem from="1631204779773" duration="67000" />
+      <workItem from="1631204900416" duration="2560000" />
+      <workItem from="1631252929824" duration="220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1631184425253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1631184425253" />
+    <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1631252958314">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1631252958314" />
+    <state x="1181" y="340" key="#xdebugger.evaluate" timestamp="1631190141663">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1181" y="340" key="#xdebugger.evaluate/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1631190141663" />
+    <state width="444" height="466" key="DebuggerActiveHint" timestamp="1631190079599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="444" height="466" key="DebuggerActiveHint/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1631190079599" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1631199222584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1631199222584" />
+    <state width="1877" height="369" key="GridCell.Tab.0.bottom" timestamp="1631228600152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="924" height="369" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1631210675556" />
+    <state width="1877" height="369" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1631209222987" />
+    <state width="1877" height="369" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1631228600152" />
+    <state width="1877" height="369" key="GridCell.Tab.0.center" timestamp="1631228600151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="924" height="369" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1631210675556" />
+    <state width="1877" height="369" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1631209222987" />
+    <state width="1877" height="369" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1631228600151" />
+    <state width="1877" height="369" key="GridCell.Tab.0.left" timestamp="1631228600151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="924" height="369" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1631210675556" />
+    <state width="1877" height="369" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1631209222987" />
+    <state width="1877" height="369" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1631228600151" />
+    <state width="1877" height="369" key="GridCell.Tab.0.right" timestamp="1631228600151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="924" height="369" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1631210675556" />
+    <state width="1877" height="369" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1631209222987" />
+    <state width="1877" height="369" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1631228600151" />
+    <state width="1877" height="427" key="GridCell.Tab.1.bottom" timestamp="1631196891808">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1631194430100" />
+    <state width="1877" height="427" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1631196891808" />
+    <state width="1877" height="427" key="GridCell.Tab.1.center" timestamp="1631196891808">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1631194430099" />
+    <state width="1877" height="427" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1631196891808" />
+    <state width="1877" height="427" key="GridCell.Tab.1.left" timestamp="1631196891808">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1631194430099" />
+    <state width="1877" height="427" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1631196891808" />
+    <state width="1877" height="427" key="GridCell.Tab.1.right" timestamp="1631196891808">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="427" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1631194430100" />
+    <state width="1877" height="427" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1631196891808" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1628518454820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1628518454820" />
+    <state x="-1253" y="250" width="595" height="537" key="find.popup" timestamp="1631252974077">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1253" y="250" width="595" height="537" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1631252974077" />
+    <state x="791" y="242" width="595" height="537" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1631208968641" />
+    <state x="791" y="242" width="595" height="537" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1631228484012" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1631190657141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1631190657141" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/gaugetest/steps/Implementation.java</url>
+          <line>149</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

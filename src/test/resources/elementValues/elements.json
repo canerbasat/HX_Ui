@@ -1,0 +1,228 @@
+[
+  {
+    "key": "btn_MainPage_SignIn",
+    "value": "a[class='login']",
+    "type": "css"
+  },
+  {
+    "key": "tb_SignInPage_EmailAdress",
+    "value": "email_create",
+    "type": "id"
+  },
+  {
+    "key": "btn_SignInPage_CreateAnAccount",
+    "value": "//button[@id='SubmitCreate']",
+    "type": "xpath"
+  },
+  {
+    "key": "btn_CreateAnAccount_GenderMr",
+    "value": "input[name='id_gender'][id='id_gender1']",
+    "type": "css"
+  },
+  {
+    "key": "tb_CreateAnAccount_FirstName",
+    "value": "#customer_firstname",
+    "type": "css"
+  },
+  {
+    "key": "tb_CreateAnAccount_Password",
+    "value": "input[type='password']",
+    "type": "css"
+  },
+  {
+    "key": "tb_CreateAnAccount_LastName",
+    "value": "#customer_lastname",
+    "type": "css"
+  },
+  {
+    "key": "tb_CreateAnAccount_Adress_FirstName",
+    "value": "input[id='firstname']",
+    "type": "css"
+  },
+  {
+    "key": "tb_CreateAnAccount_Adress_LastName",
+    "value": "input[id='lastname']",
+    "type": "css"
+  },
+  {
+    "key": "tb_CreateAnAccount_Adress_Company",
+    "value": "input[id='company']",
+    "type": "css"
+  },
+  {
+    "key": "tb_CreateAnAccount_Adress_Adress",
+    "value": "input[id='address1']",
+    "type": "css"
+  },
+  {
+    "key": "tb_CreateAnAccount_Adress_City",
+    "value": "input[id='city']",
+    "type": "css"
+  },
+  {
+    "key": "tb_CreateAnAccount_Adress_PostCode",
+    "value": "input[id='postcode']",
+    "type": "css"
+  },
+  {
+    "key": "tb_CreateAnAccount_Adress_HomePhone",
+    "value": "input[id='phone']",
+    "type": "css"
+  },
+  {
+    "key": "tb_CreateAnAccount_Adress_MobilePhone",
+    "value": "input[id='phone_mobile']",
+    "type": "css"
+  },
+  {
+    "key": "tb_CreateAnAccount_Adress_FutureReference",
+    "value": "input[id='alias']",
+    "type": "css"
+  },
+  {
+    "key": "slt_CreateAnAccount_DateOfBirth_Day",
+    "value": "select[id='days']",
+    "type": "css"
+  },
+  {
+    "key": "slt_CreateAnAccount_DateOfBirth_Month",
+    "value": "select[id='months']",
+    "type": "css"
+  },
+  {
+    "key": "slt_CreateAnAccount_DateOfBirth_Year",
+    "value": "select[id='years']",
+    "type": "css"
+  },
+  {
+    "key": "slt_CreateAnAccount_Adress_State",
+    "value": "select[id='id_state']",
+    "type": "css"
+  },
+  {
+    "key": "slt_CreateAnAccount_Adress_Country",
+    "value": "select[id='id_country']",
+    "type": "css"
+  },
+  {
+    "key": "btn_CreateAnAccount_Register",
+    "value": "button[id='submitAccount'][name='submitAccount'][type='submit']",
+    "type": "css"
+  },
+  {
+    "key": "btn_MyAccount_MyPersonalInformation",
+    "value": "a[title='Information'] > span",
+    "type": "css"
+  },
+  {
+    "key": "btn_MyAccount_Dresses",
+    "value": ".sf-menu > li > [title='Dresses']",
+    "type": "css"
+  },
+  {
+    "key": "btn_MyAccount_Dresses_SummerDresses",
+    "value": ".sf-menu .submenu-container > li > [title='Summer Dresses']",
+    "type": "css"
+  },
+  {
+    "key": "btn_SummerDresses_FirstItem",
+    "value": ".first-in-line .product-image-container",
+    "type": "css"
+  },
+  {
+  "key": "btn_SummerDresses_FirstItem_Price",
+  "value": ".first-item-of-tablet-line.first-in-line .right-block .price",
+  "type": "css"
+  },
+  {
+    "key": "btn_SummerDresses_FirstItem_Name",
+    "value": ".first-item-of-tablet-line.first-in-line .right-block .product-name",
+    "type": "css"
+  },
+  {
+    "key": "btn_Cart_ItemQuantity",
+    "value": "a[title='View my shopping cart'] > .ajax_cart_quantity",
+    "type": "css"
+  },
+  {
+  "key": "btn_Cart_ItemName",
+  "value": ".cart_block_product_name",
+  "type": "css"
+  },
+  {
+    "key": "btn_Cart_ItemPrice",
+    "value": ".cart-info > .price",
+    "type": "css"
+  },
+  {
+    "key": "btn_CheckoutSummary_ProceedToCheckOut",
+    "value": ".standard-checkout",
+    "type": "css"
+  },
+  {
+  "key": "btn_CheckoutAdress_ProceedToCheckOut",
+  "value": "button[name='processAddress']",
+  "type": "css"
+  },
+  {
+    "key": "btn_CheckoutShipping_AgreeForm",
+    "value": "#cgv",
+    "type": "css"
+  },
+  {
+  "key": "btn_CheckoutShipping_ProceedToCheckOut",
+  "value": "button[name='processCarrier']",
+  "type": "css"
+  },
+  {
+  "key": "btn_CheckoutPayment_Cheque",
+  "value": ".cheque",
+  "type": "css"
+  },
+  {
+  "key": "btn_CheckoutPayment_ConfirmOrder",
+  "value": ".button-medium[type='submit'] > span",
+  "type": "css"
+  },
+  {
+    "key": "btn_CheckoutPayment_SuccessAlert",
+    "value": ".alert",
+    "type": "css"
+  },
+  {
+    "key": "btn_SummerDresses_FirstItem_AddToCart",
+    "value": ".button[data-id-product='5']",
+    "type": "css"
+  },
+  {
+  "key": "btn_AddtoCart_Cross",
+  "value": ".cross",
+  "type": "css"
+  },
+  {
+    "key": "btn_CartView",
+    "value": "a[title='View my shopping cart']",
+    "type": "css"
+  },
+  {
+    "key": "btn_CartView_Checkout",
+    "value": "a[id='button_order_cart']",
+    "type": "css"
+  },
+  {
+    "key": "btn_Checkout_MyAccount",
+    "value": "a[class='account']",
+    "type": "css"
+  },
+  {
+    "key": "btn_MyAccount_Orders",
+    "value": "a[title='Orders'] > span",
+    "type": "css"
+  },
+  {
+  "key": "btn_Order_FirstOrder",
+  "value": "tr.first_item > .history_link",
+  "type": "css"
+  }
+
+]
